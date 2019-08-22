@@ -1,6 +1,6 @@
 ---
 title: "Predicting Term Deposits"
-author: "MBD | ADVANCED R | June 2019"
+author: "Ashley O'Mahony | [ashleyomahony.com](http://ashleyomahony.com) | June 2019"
 always_allow_html: yes
 output:
   html_document:
@@ -2398,22 +2398,7 @@ shinyApp(ui = ui, server = server, options = list(height = 500))
 <br><br>
 
 ***
-###### *Nayla Fakhoury | Martin Hofbauer | Andres Llerena | Francesca Manoni | Paul Jacques-Mignault | Ashley O'Mahony | Stavros Tsentemeidis*
-###### *O17 (Group G) | Master in Big Data and Business Analytics | Oct 2018 Intake | IE School of Human Sciences and Technology*
+
+###### *Ashley O'Mahony | [ashleyomahony.com](http://ashleyomahony.com) | June 2019*  
 
 ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

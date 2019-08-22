@@ -1,6 +1,7 @@
 Predicting Term Deposits
 ================
-MBD | ADVANCED R | June 2019
+Ashley O’Mahony | [ashleyomahony.com](http://ashleyomahony.com) | June
+2019
 
 </br>
 
@@ -613,7 +614,7 @@ the package `caret`.
 
 ``` r
 ####
-#### THIS SCRIPT SPLIT THE TRAIN SET AND 
+#### THIS SCRIPT SPLIT THE TRAIN SET 
 ####
 
 seed <- ifelse(exists('seed'), seed, 2019)
@@ -9130,8 +9131,6 @@ shinyApp(ui = ui, server = server, options = list(height = 500))
 
 -----
 
-###### *Nayla Fakhoury | Martin Hofbauer | Andres Llerena | Francesca Manoni | Paul Jacques-Mignault | Ashley O’Mahony | Stavros Tsentemeidis*
-
-###### *O17 (Group G) | Master in Big Data and Business Analytics | Oct 2018 Intake | IE School of Human Sciences and Technology*
+###### *Ashley O’Mahony | [ashleyomahony.com](http://ashleyomahony.com) | June 2019*
 
 -----
