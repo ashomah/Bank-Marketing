@@ -8,7 +8,13 @@ This project analyses a **bank marketing campaign history** and predicts **which
 
 All the files of this project are saved in a [GitHub repository](https://github.com/ashomah/Bank-Marketing).  
 
-</br>
+<br>
+
+#### Large Files  
+
+To comply with GitHub file size limits, the folders containing large files (data, models...) have been compressed and split by parts of 100 MB, and stored on Google Drive (see links in relative folders). To decompress these files, download all parts and start decompressing the first file (ending with `.001`).  
+
+<br>
 
 #### Report Formats  
 
@@ -18,7 +24,7 @@ The report of this analysis comes in three formats:
 * **HTML**: to be consulted in a web browser and/or printed.  
 * **Shiny App**: to add interactivity and provide enhanced readability.  
 
-</br>
+<br>
 
 #### For developers  
 
